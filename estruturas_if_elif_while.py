@@ -10,3 +10,4 @@ try:
       print("O número em binário é: "+decimal_para_binario(num))
 except:
   print("Entre com o valor numérico e não letras")
+
